@@ -4,6 +4,7 @@ import Card from "../../components/reuse/Card";
 import Service from "../../components/HomeComponents/Service";
 import About from "../../components/reuse/About";
 import Carousel from "../../components/reuse/Carousel";
+import Location from "../../components/reuse/Location";
 
 function Home() {
   return (
@@ -30,6 +31,8 @@ function Home() {
       <About />
       {/* Carousel */}
       <Carousel />
+      {/* Location */}
+      <Location />
     </div>
   );
 }
