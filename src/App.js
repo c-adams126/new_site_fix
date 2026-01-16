@@ -1,11 +1,8 @@
-import logo from './logo.svg';
 import Home from './pages/Home/Home';
 import './App.css';
 import Footer from './components/reuse/Footer';
 import SiteNav from './components/reuse/SiteNav';
 import About from './pages/About/About';
-import Contact from './pages/Contact/Contact';
-import Service from './pages/Service/Service';
 import Book from './pages/Booking/Book';
 import { Routes, Route } from 'react-router-dom';
 

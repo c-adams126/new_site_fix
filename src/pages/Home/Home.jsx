@@ -1,4 +1,3 @@
-import vid from "../../resource/vidoe/msg.mp4"; // double-check the folder and spelling of 'vidoe'
 import Hero from "../../components/HomeComponents/Hero"
 import Card from "../../components/reuse/Card";
 import Service from "../../components/HomeComponents/Service";
