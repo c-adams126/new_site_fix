@@ -10,7 +10,8 @@ function SiteNav() {
             <nav className="space-x-4">
                     <NavLink to="/" className="text-gray-600 hover:text-blue-600">Home</NavLink>
                     <NavLink to="/about" className="text-gray-600 hover:text-blue-600">About</NavLink>
-                    <NavLink to="/contact" className="text-gray-600 hover:text-blue-600">Contact</NavLink>
+                    {/* <NavLink to="/contact" className="text-gray-600 hover:text-blue-600">Contact</NavLink> */}
+                    <NavLink to="/booking" className="text-gray-600 hover:text-blue-600">Book Now!</NavLink>
             </nav>
             </div>
         </header>
