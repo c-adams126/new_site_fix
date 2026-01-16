@@ -1,5 +1,4 @@
 function About() {
-    const x = "Here At the spa we will do anything for you to reach relaxation";
 
     return(
         <div className="bg-white text-center mb-10 justify-center">
